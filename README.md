@@ -15,6 +15,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
+### State
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=alaa281997&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=alaa281997"/>
