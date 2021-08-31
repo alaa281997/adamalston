@@ -19,4 +19,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=alaa281997&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
 
+
+### visitor
 <img src="https://visitor-badge.glitch.me/badge?page_id=alaa281997"/>
